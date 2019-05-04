@@ -1,0 +1,55 @@
+2019-05-04 11:24:03,375 - [INFO] - log_utils - Utilizing the first CUDA gpu available
+2019-05-04 11:24:03,375 - [INFO] - log_utils - Creating content and style pairs dataset object
+2019-05-04 11:24:03,376 - [INFO] - log_utils - Using multi-level stylization pipeline
+2019-05-04 11:24:06,373 - [INFO] - log_utils - Starting 0/1 stylization iteration
+2019-05-04 11:24:06,373 - [INFO] - log_utils - content: ['inputs/face.jpg']	style: ['inputs/s1.jpg']
+2019-05-04 11:24:09,350 - [INFO] - log_utils - Wall-clock time took for stylization: 2.9741416880860925s
+2019-05-04 11:24:09,370 - [INFO] - log_utils - content: ['inputs/face.jpg']	style: ['inputs/s1.jpg']
+2019-05-04 11:24:12,167 - [INFO] - log_utils - Wall-clock time took for stylization: 2.7948452250566334s
+2019-05-04 11:24:12,187 - [INFO] - log_utils - content: ['inputs/face.jpg']	style: ['inputs/s1.jpg']
+2019-05-04 11:24:14,979 - [INFO] - log_utils - Wall-clock time took for stylization: 2.7910823749843985s
+2019-05-04 11:24:14,999 - [INFO] - log_utils - content: ['inputs/face.jpg']	style: ['inputs/s1.jpg']
+2019-05-04 11:24:17,660 - [INFO] - log_utils - Wall-clock time took for stylization: 2.6590261491946876s
+2019-05-04 11:24:17,680 - [INFO] - log_utils - content: ['inputs/face.jpg']	style: ['inputs/s1.jpg']
+2019-05-04 11:24:20,327 - [INFO] - log_utils - Wall-clock time took for stylization: 2.6455920431762934s
+2019-05-04 11:24:20,347 - [INFO] - log_utils - content: ['inputs/face.jpg']	style: ['inputs/s1.jpg']
+2019-05-04 11:24:22,855 - [INFO] - log_utils - Wall-clock time took for stylization: 2.5060279991012067s
+2019-05-04 11:24:22,874 - [INFO] - log_utils - content: ['inputs/face.jpg']	style: ['inputs/s1.jpg']
+2019-05-04 11:24:25,590 - [INFO] - log_utils - Wall-clock time took for stylization: 2.7139882589690387s
+2019-05-04 11:24:25,610 - [INFO] - log_utils - content: ['inputs/face.jpg']	style: ['inputs/s1.jpg']
+2019-05-04 11:24:28,233 - [INFO] - log_utils - Wall-clock time took for stylization: 2.6222286890260875s
+2019-05-04 11:24:28,253 - [INFO] - log_utils - content: ['inputs/face.jpg']	style: ['inputs/s1.jpg']
+2019-05-04 11:24:30,913 - [INFO] - log_utils - Wall-clock time took for stylization: 2.6581919719465077s
+2019-05-04 11:24:30,934 - [INFO] - log_utils - content: ['inputs/face.jpg']	style: ['inputs/s1.jpg']
+2019-05-04 11:24:33,533 - [INFO] - log_utils - Wall-clock time took for stylization: 2.597220321884379s
+2019-05-04 11:24:33,554 - [INFO] - log_utils - content: ['inputs/face.jpg']	style: ['inputs/s1.jpg']
+2019-05-04 11:24:36,092 - [INFO] - log_utils - Wall-clock time took for stylization: 2.5363058000802994s
+2019-05-04 11:24:36,113 - [INFO] - log_utils - content: ['inputs/face.jpg']	style: ['inputs/s1.jpg']
+2019-05-04 11:24:38,669 - [INFO] - log_utils - Wall-clock time took for stylization: 2.554350052960217s
+2019-05-04 11:24:38,691 - [INFO] - log_utils - content: ['inputs/face.jpg']	style: ['inputs/s1.jpg']
+2019-05-04 11:24:41,223 - [INFO] - log_utils - Wall-clock time took for stylization: 2.5311832309234887s
+2019-05-04 11:24:41,244 - [INFO] - log_utils - content: ['inputs/face.jpg']	style: ['inputs/s1.jpg']
+2019-05-04 11:24:43,830 - [INFO] - log_utils - Wall-clock time took for stylization: 2.58532423293218s
+2019-05-04 11:24:43,850 - [INFO] - log_utils - content: ['inputs/face.jpg']	style: ['inputs/s1.jpg']
+2019-05-04 11:24:46,593 - [INFO] - log_utils - Wall-clock time took for stylization: 2.740788923110813s
+2019-05-04 11:24:46,613 - [INFO] - log_utils - content: ['inputs/face.jpg']	style: ['inputs/s1.jpg']
+2019-05-04 11:24:49,306 - [INFO] - log_utils - Wall-clock time took for stylization: 2.6917727219406515s
+2019-05-04 11:24:49,327 - [INFO] - log_utils - content: ['inputs/face.jpg']	style: ['inputs/s1.jpg']
+2019-05-04 11:24:51,983 - [INFO] - log_utils - Wall-clock time took for stylization: 2.6543995740357786s
+2019-05-04 11:24:52,004 - [INFO] - log_utils - content: ['inputs/face.jpg']	style: ['inputs/s1.jpg']
+2019-05-04 11:24:54,530 - [INFO] - log_utils - Wall-clock time took for stylization: 2.52411582111381s
+2019-05-04 11:24:54,551 - [INFO] - log_utils - content: ['inputs/face.jpg']	style: ['inputs/s1.jpg']
+2019-05-04 11:24:57,061 - [INFO] - log_utils - Wall-clock time took for stylization: 2.5093407151289284s
+2019-05-04 11:24:57,082 - [INFO] - log_utils - content: ['inputs/face.jpg']	style: ['inputs/s1.jpg']
+2019-05-04 11:24:59,633 - [INFO] - log_utils - Wall-clock time took for stylization: 2.5489462320692837s
+2019-05-04 11:24:59,652 - [INFO] - log_utils - content: ['inputs/face.jpg']	style: ['inputs/s1.jpg']
+2019-05-04 11:25:02,346 - [INFO] - log_utils - Wall-clock time took for stylization: 2.6925558340735734s
+2019-05-04 11:25:02,368 - [INFO] - log_utils - content: ['inputs/face.jpg']	style: ['inputs/s1.jpg']
+2019-05-04 11:25:05,151 - [INFO] - log_utils - Wall-clock time took for stylization: 2.7817121089901775s
+2019-05-04 11:25:05,173 - [INFO] - log_utils - content: ['inputs/face.jpg']	style: ['inputs/s1.jpg']
+2019-05-04 11:25:07,806 - [INFO] - log_utils - Wall-clock time took for stylization: 2.631769957020879s
+2019-05-04 11:25:07,828 - [INFO] - log_utils - content: ['inputs/face.jpg']	style: ['inputs/s1.jpg']
+2019-05-04 11:25:10,639 - [INFO] - log_utils - Wall-clock time took for stylization: 2.810265488922596s
+2019-05-04 11:25:10,660 - [INFO] - log_utils - content: ['inputs/face.jpg']	style: ['inputs/s1.jpg']
+2019-05-04 11:25:13,217 - [INFO] - log_utils - Wall-clock time took for stylization: 2.5559243760071695s
+2019-05-04 11:25:13,237 - [INFO] - log_utils - Stylization completed, exiting.
